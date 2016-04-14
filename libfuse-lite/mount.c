@@ -22,6 +22,7 @@
 #include <sys/un.h>
 #include <sys/wait.h>
 #include <sys/mount.h>
+#include <string.h>
 
 #ifndef MS_DIRSYNC
 #define MS_DIRSYNC 128
